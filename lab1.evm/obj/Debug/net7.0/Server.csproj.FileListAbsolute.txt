@@ -1,0 +1,12 @@
+/home/klimkin_sv/Рабочий стол/lab1.evm/bin/Debug/net7.0/Server.deps.json
+/home/klimkin_sv/Рабочий стол/lab1.evm/bin/Debug/net7.0/Server.dll
+/home/klimkin_sv/Рабочий стол/lab1.evm/bin/Debug/net7.0/Server.pdb
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.csproj.AssemblyReference.cache
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.AssemblyInfoInputs.cache
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.AssemblyInfo.cs
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.csproj.CoreCompileInputs.cache
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.dll
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/refint/Server.dll
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/Server.pdb
+/home/klimkin_sv/Рабочий стол/lab1.evm/obj/Debug/net7.0/ref/Server.dll
