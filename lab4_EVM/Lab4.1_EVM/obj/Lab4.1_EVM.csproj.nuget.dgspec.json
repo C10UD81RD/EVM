@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/klimkin_sv/Рабочий стол/lab4_EVM/Lab4.1_EVM/Lab4.1_EVM.csproj": {}
+  },
+  "projects": {
+    "/home/klimkin_sv/Рабочий стол/lab4_EVM/Lab4.1_EVM/Lab4.1_EVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/klimkin_sv/Рабочий стол/lab4_EVM/Lab4.1_EVM/Lab4.1_EVM.csproj",
+        "projectName": "Lab4.1_EVM",
+        "projectPath": "/home/klimkin_sv/Рабочий стол/lab4_EVM/Lab4.1_EVM/Lab4.1_EVM.csproj",
+        "packagesPath": "/home/klimkin_sv/.nuget/packages/",
+        "outputPath": "/home/klimkin_sv/Рабочий стол/lab4_EVM/Lab4.1_EVM/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/klimkin_sv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/home/klimkin_sv/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Raven.Iot.Device.Bindings": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
