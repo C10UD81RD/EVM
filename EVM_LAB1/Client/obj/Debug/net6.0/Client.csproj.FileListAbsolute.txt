@@ -1,0 +1,42 @@
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/klimkin_sv/EVM_LABS/Client/bin/Debug/net6.0/Client
+/home/klimkin_sv/EVM_LABS/Client/bin/Debug/net6.0/Client.deps.json
+/home/klimkin_sv/EVM_LABS/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/klimkin_sv/EVM_LABS/Client/bin/Debug/net6.0/Client.dll
+/home/klimkin_sv/EVM_LABS/Client/bin/Debug/net6.0/Client.pdb
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.dll
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/refint/Client.dll
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.pdb
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/home/klimkin_sv/EVM_LABS/Client/obj/Debug/net6.0/ref/Client.dll
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/bin/Debug/net6.0/Client
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/bin/Debug/net6.0/Client.deps.json
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/bin/Debug/net6.0/Client.dll
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/bin/Debug/net6.0/Client.pdb
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.dll
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/refint/Client.dll
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.pdb
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/home/klimkin_sv/Рабочий стол/EVM_LAB1/Client/obj/Debug/net6.0/ref/Client.dll
+/home/klimkin_sv/EVM_LAB1/Client/bin/Debug/net6.0/Client
+/home/klimkin_sv/EVM_LAB1/Client/bin/Debug/net6.0/Client.deps.json
+/home/klimkin_sv/EVM_LAB1/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/klimkin_sv/EVM_LAB1/Client/bin/Debug/net6.0/Client.dll
+/home/klimkin_sv/EVM_LAB1/Client/bin/Debug/net6.0/Client.pdb
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.dll
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/refint/Client.dll
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.pdb
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/home/klimkin_sv/EVM_LAB1/Client/obj/Debug/net6.0/ref/Client.dll
