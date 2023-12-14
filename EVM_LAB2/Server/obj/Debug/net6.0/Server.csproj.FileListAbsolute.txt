@@ -1,0 +1,14 @@
+/home/klimkin_sv/EVM_LAB2/Server/bin/Debug/net6.0/Server
+/home/klimkin_sv/EVM_LAB2/Server/bin/Debug/net6.0/Server.deps.json
+/home/klimkin_sv/EVM_LAB2/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/klimkin_sv/EVM_LAB2/Server/bin/Debug/net6.0/Server.dll
+/home/klimkin_sv/EVM_LAB2/Server/bin/Debug/net6.0/Server.pdb
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.dll
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/refint/Server.dll
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.pdb
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/klimkin_sv/EVM_LAB2/Server/obj/Debug/net6.0/ref/Server.dll

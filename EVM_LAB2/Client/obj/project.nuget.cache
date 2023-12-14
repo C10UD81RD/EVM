@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugpIj1Gkt2XYtp7chL+m8t6uFD1NX2Af+SMwpurrh6bZ/XafY3DDBb5aqwhPsx4Fa5B34IIXMoPiIsQGMhvlmg==",
+  "success": true,
+  "projectFilePath": "/home/klimkin_sv/EVM_LAB2/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/klimkin_sv/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/klimkin_sv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/klimkin_sv/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
