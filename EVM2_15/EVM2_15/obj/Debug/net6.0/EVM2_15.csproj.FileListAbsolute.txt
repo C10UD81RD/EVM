@@ -1,0 +1,15 @@
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\bin\Debug\net6.0\EVM2_15.exe
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\bin\Debug\net6.0\EVM2_15.deps.json
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\bin\Debug\net6.0\EVM2_15.runtimeconfig.json
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\bin\Debug\net6.0\EVM2_15.dll
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\bin\Debug\net6.0\EVM2_15.pdb
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.csproj.AssemblyReference.cache
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.AssemblyInfoInputs.cache
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.AssemblyInfo.cs
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.csproj.CoreCompileInputs.cache
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.dll
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\refint\EVM2_15.dll
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.pdb
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\EVM2_15.genruntimeconfig.cache
+C:\Users\Климкин Степан\source\repos\EVM2_15\EVM2_15\obj\Debug\net6.0\ref\EVM2_15.dll
